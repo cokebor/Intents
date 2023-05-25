@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1-Intents</string>
+    <string name="otraactividad">Ir a otra Actividad</string>
+    <string name="enviarextra">Enviar Datos</string>
+    <string name="enviarporresultado">Enviar por Resultado</string>
+    <string name="tomarImagen">Tomar Imagen</string>
+    <string name="ira">Ir a google</string>
+    <string name="llamar">llamar</string>
+    <string name="gps">GPS</string>
+</resources>
